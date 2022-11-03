@@ -1,4 +1,4 @@
-var text = [" Find a Startup Jobs", "Find a carrer you'll love", "Find Great places to work","Find your dream job now"];
+var text = [" Find News", "Be Updated with Live News "];
 var counter = 0;
 var elem = document.getElementById("changeText");
 var inst = setInterval(change, 2000);
